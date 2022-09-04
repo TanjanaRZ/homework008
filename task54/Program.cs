@@ -26,10 +26,10 @@ void PrintArray(int[,] matrix)
 }
 void MatrixLines(int[,] matrix)
 {
-    for (int i = 0; i < 3;)
+    for (int i = 0; i < m;)
     {
         int b = 1;
-        for (int j = 1; j < 4; j++)
+        for (int j = 1; j < n; j++)
         {
 
     
